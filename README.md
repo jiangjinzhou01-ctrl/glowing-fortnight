@@ -4,7 +4,7 @@
 
 ## 访问与部署
 
-- 线上：https://jiangjinzhou01-ctrl.github.io/hunan-dizhi-school/
+- 线上：https://jiangjinzhou01-ctrl.github.io/glowing-fortnight/
 - GitHub Pages：从 `main` 分支根目录发布；提交后自动更新。
 - 无构建、无运行依赖、无密钥。运行 `python3 -m http.server 4173` 后访问 http://localhost:4173。
 
