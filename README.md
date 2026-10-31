@@ -4,8 +4,10 @@
 
 ## 访问与部署
 
-- 线上：https://jiangjinzhou01-ctrl.github.io/glowing-fortnight/
-- GitHub Pages：从 `main` 分支根目录发布；提交后自动更新。
+- 线上：https://jiangjinzhou01-ctrl.github.io/ff/hunan-dizhi-school/
+- 独立源码：`jiangjinzhou01-ctrl/glowing-fortnight`。
+- 发布副本：`jiangjinzhou01-ctrl/ff` 仓库的 `hunan-dizhi-school/` 独立目录，Pages 从 `main` 根目录发布。
+- 当前授权不能创建仓库或启用新 Pages，因此使用已有 Pages 站点下的独立目录。后续修改源码后，将文件同步至发布目录并提交；目前没有跨仓库自动同步。
 - 无构建、无运行依赖、无密钥。运行 `python3 -m http.server 4173` 后访问 http://localhost:4173。
 
 ## 文件
